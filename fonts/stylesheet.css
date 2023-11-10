@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('AvenirLTPro-Light.woff2') format('woff2'),
+        url('AvenirLTPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('AvenirNextLTPro-BoldCn.woff2') format('woff2'),
+        url('AvenirNextLTPro-BoldCn.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-Bold.woff2') format('woff2'),
+        url('RobotoMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('AvenirLTPro-Roman.woff2') format('woff2'),
+        url('AvenirLTPro-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-Light.woff2') format('woff2'),
+        url('RobotoMono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('AvenirLTPro-Medium.woff2') format('woff2'),
+        url('AvenirLTPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-SemiBold.woff2') format('woff2'),
+        url('RobotoMono-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-Medium.woff2') format('woff2'),
+        url('RobotoMono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('RobotoMono-Regular.woff2') format('woff2'),
+        url('RobotoMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
